@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @th4it4y4
+- 👋 Hi, I’m Nitichai Kochtean my nickname is Nai.
 - 👀 I’m interested in JS, Vue.js, React Native, Solidity, C, Python, SQL and HTML.
 - 🌱 I’m currently learning in Faculty of Information Technology in major Software Engineering.
 - 📫 How to reach me IG: th4it4y FB: นาย นิติไชย.
